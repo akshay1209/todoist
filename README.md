@@ -25,7 +25,7 @@
 
 ### SASS is used for styling purpose 
 - App.scss extention file stores the css of the App.
-- SASS is been intalled using in the terminal:- 
+- SASS is been installed using in the terminal:- 
 ### npm install node-sass  
 
 # HOST LINK
