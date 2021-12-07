@@ -28,6 +28,10 @@
 - SASS is been intalled using in the terminal:- 
 ### npm install node-sass  
 
+# HOST LINK
+project can be view by clicking on link given below
+### https://jolly-einstein-ef2f78.netlify.app/
+
 # User can run this app on their machine using 
 ### npm start 
 on their localhost
