@@ -1,5 +1,6 @@
 # Todoist App
-This a ToDo list app which keeps track of tasks hes to be done along with dates.
+- This a ToDo list app which keeps track of tasks has to be done along with dates.
+
 
 # FEATURES 
 -  User can add Tasks that he/she want to do and can tag them with dates. 
@@ -7,6 +8,10 @@ This a ToDo list app which keeps track of tasks hes to be done along with dates.
 -  All can be viewed in seperate coloumns.
 -   Today's tasks will be shown under today menu and rest tasks will be shown under Next 7 Days menu.
 -   App also includes react-icons
+
+# TECHNOLOGIES USED
+- ReactJs
+- SASS (for styling purpose)
 
 # DEPENDENCIES USED
 - REACT-DAY-PICKER package is used to cover the most common needs for a date picker in web applications.
