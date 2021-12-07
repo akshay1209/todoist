@@ -104,7 +104,7 @@ const Tasks = ({ selectedTab }) => {
 
   return (
     <div className="tasks">
-      <h1>{TASKS_HEADER_MAPPING [selectedTab]}</h1>
+      <h1>{TASKS_HEADER_MAPPING[selectedTab]}</h1>
      { selectedTab === "INBOX" ? (
       <div
         className="add-task-btn"
