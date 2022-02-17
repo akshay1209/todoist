@@ -16,6 +16,10 @@ function formatDate(date, format, locale) {
 const AddTask = ({ onCancel, onAddTask }) => {
   const [task, setTask] = useState("");
   const [date, setDate] = useState(null);
+  const delete {
+    tasks.splice(task);
+  
+  }
   return (
     <div className="add-task-dialog">
       <input value={task} onChange={(event) => setTask(event.target.value)} />
@@ -86,6 +90,7 @@ return (
           <div className="task-item">
               <p>{task.text}</p>
               <p>{dateFnsFormat(new Date(task.date), FORMAT)}{"  "}</p>
+              <button onClick={delete}> </button>
           </div>
 ))}
     </div>
